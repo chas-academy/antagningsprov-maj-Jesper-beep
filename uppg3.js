@@ -7,7 +7,11 @@ function uppg3() {
     // tilldela värdena 5 och 10 till variablerna
     // skriv ut summan av a och b i konsolen
 
+let tal1 = 5;
+let tal2 = 10;
+let summa = tal1 + tal2;
 
+console.log("Summan är", summa);
 
 }
 
