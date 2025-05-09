@@ -10,6 +10,15 @@ function uppg8(){
 //  över 30 år som skrivs ut i konsolen
 
 // anropa funktionen och skicka med arrayen som argument
+  let personer = [
+    {name: "Göran", age: 59},
+    {name: "Jesper", age: 24},
+    {name: "Gunnar", age: 70},
+    {name: "Berra", age: 29}
+    ];
+
+  
+      
 
 
 }
